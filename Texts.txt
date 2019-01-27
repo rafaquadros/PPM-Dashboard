@@ -6,7 +6,7 @@ Z001                          0050569005911ED985EED29ECBD31FD6	Z001/QGATES	Quali
 Z001                          0050569005911ED986864067686C54A9	Z001/GP_IMPACT	GP Impact (kR$)	Impacto GP (kR$)
 Z001                          0050569005911ED986A28F15D625160B	Z001/ROADMAP_ANALYSIS	Roadmap Analysis	Análise de Roadmap
 Z001                          0050569005911EE985D225D729408352	Z001/TYPE_DISTRIBUTION	Type Distribution	Distribuição por tipo
-Z001                          0050569005911ED986A069ACB7409117	Z001/TITLE_TYPE_DISTRIB	Number and Distribuiton of Demand - Project Types	Número e Distribuição de Demandas - Tipos de Projetos
+Z001                          0050569005911ED986A069ACB7409117	Z001/TITLE_TYPE_DISTRIB	Number and Distribution by Type	Número e Distribuição por tipo
 Z001                          0050569005911EE986B0D362F0C5F63A	Z001/CATEG_DISTRIBUTION	Category Distribution	Distribuição entre Categorias
 Z001                          0050569005911ED986BB59041815CEB9	Z001/RESOURCE_STATUS	Resource Status	Status de Recursos
 Z001                          0050569005911EE986E35D2B2622C9E3	Z001/STATUS	Status	Status
